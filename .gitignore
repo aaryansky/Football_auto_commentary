@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.env
+.env
+.vscode/
+.idea/
+
+# Virtual environments
+.venv/
+.venv311/
+venv/
+ENV/
+env/
+.Python
+
+# Data, generated and media
+data/videos/
+data/events/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+
+# Model files
+*.pth
+*.pt
+
+# OS
+Thumbs.db
+.DS_Store
+
